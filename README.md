@@ -1,1 +1,1 @@
-# playground-java-se-8
+# playground-java
