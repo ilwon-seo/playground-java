@@ -2,13 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>playground-java</groupId>
-	<artifactId>playground-java</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
-
-	<modules>
-		<module>java-2014-se8</module>
-		<module>java-2018-se11</module>
-	</modules>
+	<parent>
+		<groupId>playground-java</groupId>
+		<artifactId>playground-java</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>java-2018-se11</artifactId>
 </project>
