@@ -11,6 +11,7 @@
     - 10장: JShell 도구 insight-newjava/src/insightbook/newjava/ch10
     - 11장: 유용한 새 기능들 insight-newjava/src/insightbook/newjava/ch11
       - try-resource 구문(Java 7)
+        - AutoClosable interface
       - Catch 절 여러 Exception 동시 처리(Java 7)
       - 로컬변수타입 추론(Java 10)
       - 반응형 프로그래밍 API(Java 9)
